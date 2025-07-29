@@ -139,7 +139,7 @@ ProjectFolder/
 ## 🖼️ Screenshots
 
 ### ✅ Single Calculation (Feasible)
-![Single Feasible 1](<img width="2244" height="1001" alt="image" src="https://github.com/user-attachments/assets/42e6e39c-5c73-4fc6-bcd3-1d95dd53f670"/>)  
+[Single Feasible 1](<img width="2244" height="1001" alt="image" src="https://github.com/user-attachments/assets/42e6e39c-5c73-4fc6-bcd3-1d95dd53f670"/>)  
 ![Single Feasible 2](https://github.com/yourusername/your-repo-name/blob/main/screenshot_single_calc_2.png?raw=true)
 
 ### ❌ Single Calculation (Not Feasible)
