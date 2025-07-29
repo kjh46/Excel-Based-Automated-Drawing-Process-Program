@@ -164,7 +164,16 @@ ProjectFolder/
 > _"Beyond being a simple calculation tool, this project improves real-world workflow and takes a step forward in the digital transformation of manufacturing."_
 
 ---
+## 📥 Download
 
+You can download the full project package (including the preconfigured virtual environment) from Google Drive:
+
+**[🔗 Download from Google Drive](https://drive.google.com/file/d/1VRnLgbvvQUp7RHEvrWBOkLRiYrKHc7y8/view?usp=sharing)**
+
+> ⚠️ Note: The download includes a preconfigured Python virtual environment.  
+> After downloading and extracting, place the folder in `C:\DrawingClean` and simply double-click `launch_app.bat` to run the program.  
+> No additional installation is required.
+---
 ## 👨‍💻 Author
 
 **JuHyeong Kim**  
