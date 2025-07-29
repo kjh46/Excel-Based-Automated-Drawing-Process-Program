@@ -7,7 +7,7 @@ This project aims to develop an automated system for Excel-based drawing process
 ### 🗓️ Project Information
 
 - **Project Name**: Excel-Based Automation Program Development  
-- **Duration**: May – June 2025  
+- **Duration**: May – July 2025  
 - **Job Role**: IT Development  
 - **Participating Company**: RHINOX  
 - **Team Leader**: Kim Yun-yeol  
