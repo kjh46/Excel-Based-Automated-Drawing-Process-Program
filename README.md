@@ -139,20 +139,25 @@ ProjectFolder/
 ## 🖼️ Screenshots
 
 ### ✅ Single Calculation (Feasible)
-[Single Feasible 1]<img width="2244" height="1001" alt="image" src="https://github.com/user-attachments/assets/42e6e39c-5c73-4fc6-bcd3-1d95dd53f670"/>  
-![Single Feasible 2](https://github.com/yourusername/your-repo-name/blob/main/screenshot_single_calc_2.png?raw=true)
+[Single Feasible 1]<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/42e6e39c-5c73-4fc6-bcd3-1d95dd53f670"/>  
+[Single Feasible 2]<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/fcba9f5e-e621-4689-af63-8218967f8973" />
+
+
 
 ### ❌ Single Calculation (Not Feasible)
-![Single Not Feasible 1](https://github.com/yourusername/your-repo-name/blob/main/screenshot_single_calc_3.png?raw=true)  
-![Single Not Feasible 2](https://github.com/yourusername/your-repo-name/blob/main/screenshot_single_calc_4.png?raw=true)
+[Single Not Feasible 1]<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/aee3fe36-07db-41f6-90ee-b06dc20f6537" />
+[Single Not Feasible 2]<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/ee41006d-1698-4815-90e0-0df46bdac8bc" />
+
 
 ### 📊 Area Reduction Rate Analysis
-![Reduction Analysis 1](https://github.com/yourusername/your-repo-name/blob/main/screenshot_reduction_analysis_1.png?raw=true)  
-![Reduction Analysis 2](https://github.com/yourusername/your-repo-name/blob/main/screenshot_reduction_analysis_2.png?raw=true)
+[Reduction Analysis 1]<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/d2f553e2-167b-4bc3-9c7e-3ac3bccd1a77" />
+[Reduction Analysis 2]<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/277d1b58-a71e-4bc7-acc0-397d1911f705" />
+
 
 ### 🗃️ Batch Processing
-![Batch 1](https://github.com/yourusername/your-repo-name/blob/main/screenshot_batch_processing_1.png?raw=true)  
-![Batch 2](https://github.com/yourusername/your-repo-name/blob/main/screenshot_batch_processing_2.png?raw=true)
+[Batch 1]<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/3272c869-169a-4cd0-9c51-da5750421a53" />
+[Batch 2]<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/50a8bb71-a821-4421-9b7a-b1b9cc0ba0f7" />
+
 
 ---
 
