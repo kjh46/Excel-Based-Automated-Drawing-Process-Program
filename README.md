@@ -186,3 +186,12 @@ You can download the full project package (including the preconfigured virtual e
 
 **Hyuk Jeong**  
 *backend developer*
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it.
+
+---
+
