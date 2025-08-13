@@ -181,8 +181,8 @@ You can download the full project package (including the preconfigured virtual e
 **JuHyeong Kim**  
 *System Developer*  
 
-**Hyeon-jung Kim**
+**Hyeon-jung Kim**  
 *Front developer*
 
-**Hyuk Jeong**
+**Hyuk Jeong**  
 *backend developer*
