@@ -175,7 +175,7 @@ You can download the full project package (including the preconfigured virtual e
 > No additional installation is required.
 ---
 ## 👨‍💻 Team
-**Yunyeol Kim**
+**Yunyeol Kim**  
 *Team Leader*
 
 **JuHyeong Kim**  
