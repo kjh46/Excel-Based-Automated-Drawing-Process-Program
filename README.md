@@ -174,8 +174,15 @@ You can download the full project package (including the preconfigured virtual e
 > After downloading and extracting, place the folder in `C:\DrawingClean` and simply double-click `launch_app.bat` to run the program.  
 > No additional installation is required.
 ---
-## 👨‍💻 Author
+## 👨‍💻 Team
+**Yunyeol Kim**
+*Team Leader*
 
 **JuHyeong Kim**  
 *System Developer*  
-GitHub: [github.com/kjh46](https://github.com/kjh46)
+
+**Hyeon-jung Kim**
+*Front developer*
+
+**Hyuk Jeong**
+*backend developer*
